@@ -19,7 +19,7 @@ map, filter, find, sort, reduce
 Відкрити файл index.html у браузері
 ###
 Посилання  на  відео демонстрацію:
-https://docs.google.com/videos/d/1zJRSLlTGkqnEPlMdO86BVn3qEqUuLhBOx8TAcqfMigI/edit?usp=sharing
+https://drive.google.com/file/d/1hz9jTLXa3e-NncLuhZyTFopCVk7fVfl6/view?usp=vids_web
 ### Автор:
 Устич Максим
 Група alk-43
