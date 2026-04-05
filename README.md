@@ -17,7 +17,9 @@ map, filter, find, sort, reduce
 
 ### Як запустити:
 Відкрити файл index.html у браузері
-
+###
+Посилання  на  відео демонстрацію:
+https://docs.google.com/videos/d/1zJRSLlTGkqnEPlMdO86BVn3qEqUuLhBOx8TAcqfMigI/edit?usp=sharing
 ### Автор:
 Устич Максим
 Група alk-43
